@@ -1,0 +1,100 @@
+# Created by https://www.toptal.com/developers/gitignore/api/eclipse
+# Edit at https://www.toptal.com/developers/gitignore?templates=eclipse
+
+### Eclipse ###
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
+
+
+# Skip project target folder
+*/target/*
+
+
+# Skip project conifig folder
+*/config/*
+
+# Skip project wallter folder
+*/wallet/*
+
+# External tool builders
+.externalToolBuilders/
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+# PyDev specific (Python IDE for Eclipse)
+*.pydevproject
+
+# CDT-specific (C/C++ Development Tooling)
+.cproject
+
+# CDT- autotools
+.autotools
+
+# Java annotation processor (APT)
+.factorypath
+
+# PDT-specific (PHP Development Tools)
+.buildpath
+
+# sbteclipse plugin
+.target
+
+# Tern plugin
+.tern-project
+
+# TeXlipse plugin
+.texlipse
+
+# STS (Spring Tool Suite)
+.springBeans
+
+# Code Recommenders
+.recommenders/
+
+# Annotation Processing
+.apt_generated/
+.apt_generated_test/
+
+# Scala IDE specific (Scala & Java development for Eclipse)
+.cache-main
+.scala_dependencies
+.worksheet
+
+# Uncomment this line if you wish to ignore the project description file.
+# Typically, this file would be tracked if it contains build/dependency configurations:
+#.project
+
+### Eclipse Patch ###
+# Spring Boot Tooling
+.sts4-cache/
+
+# End of https://www.toptal.com/developers/gitignore/api/eclipse
+.sonarlint/default/.sonartmp_7873930297218977296/sonarlint-slf4j-sonar-log7470105509802797605.jar
+.sonarlint/default/.sonartmp_2635466173093842079/sonarlint-slf4j-sonar-log1183769670484723946.jar
+.sonarlint/default/.sonartmp_2029141755378269491/sonarlint-slf4j-sonar-log913665074179219005.jar
+.sonarlint/default/.sonartmp_7095461977853162453/sonarlint-slf4j-sonar-log1858053056301736087.jar
+.sonarlint/default/.sonartmp_15668073842589901792/sonarlint-slf4j-sonar-log12973561277635017070.jar
+ConnectivityTest/.project
+.sonarlint/default/.sonartmp_9236360046516227328/sonarlint-slf4j-sonar-log2315310516879654602.jar
+<<<<<<< HEAD
+.sonarlint/default/.sonartmp_4385587263797197093/sonarlint-slf4j-sonar-log13948995748037790052.jar
+=======
+.sonarlint/
+>>>>>>> QA_TEMP
+logs/afplog.json
+logs/afplog.json~UAT_TEMP
+logs/Archived/afplog.2021-02-09.0.json
+Practice/.classpath
+Practice/.project
+Practice/src/my/practice/date/SimpleDateCalc.java
+logs/Archived/afplog.2021-02-17.0.json
